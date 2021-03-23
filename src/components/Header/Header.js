@@ -23,9 +23,7 @@ const Header = () => {
                     </ul>
                 </section>
             </nav>
-            {/* <style jsx>{`
             
-            `}</style> */}
         </header>
     );
 };
