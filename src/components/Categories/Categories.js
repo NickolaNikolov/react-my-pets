@@ -2,7 +2,7 @@ import { Component } from 'react';
 
 import * as petService from '../../service/petService';
 
-import Pet from '../Pet/Pet';
+import Pet from '../PetCard/PetCard';
 import CategoryNavigation from '../CategoryNavigation/CategoryNavigation';
 
 class Categories extends Component {
